@@ -30,6 +30,11 @@ Here are some ideas to get you started:
  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<h1 align=""><b>Sobre Mi... </b></h1>
+
+
+
+<!--  -->
 
 <br>
 
